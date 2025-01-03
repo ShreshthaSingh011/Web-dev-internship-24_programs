@@ -1,3 +1,15 @@
 GSPA libraries - https://cdnjs.com/libraries/gsap
 
 To create icon of a website - https://favicon.io/
+
+Search locomotive js cdn
+Locomotive Scroll - https://locomotivemtl.github.io/locomotive-scroll/
+
+The links I used in my project
+For Scroll - https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js
+For CSS of Scroll - https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css
+But locomotive scroll is quite notorious
+So go on google and search
+locomotive scrolltrigger codepen
+https://codepen.io/GreenSock/pen/ExPdqKy
+Then copy all JS code
