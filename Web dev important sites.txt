@@ -1,0 +1,3 @@
+GSPA libraries - https://cdnjs.com/libraries/gsap
+
+To create icon of a website - https://favicon.io/
